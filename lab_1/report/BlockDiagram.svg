@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg"
+    xmlns:latexdraw="http://latexdraw.sourceforge.net/namespaces/latexdraw"
+    version="1.1" baseProfile="full">
+    <defs/>
+    <g>
+        <g latexdraw:type="rectangle" id="id103">
+            <rect x="74.0" y="54.0" width="146.0" height="75.0"
+                latexdraw:borderPos="outer" stroke-width="2.0"
+                stroke="black" fill="none"/>
+        </g>
+        <g latexdraw:type="text" id="id104"
+            font-family="Times New Roman" fill="black" font-size="18" latexdraw:x="105.0">
+            <text x="105.0" y="90.0"><![CDATA[Tiny6410]]></text>
+        </g>
+        <g latexdraw:type="text" id="id106"
+            font-family="Times New Roman" fill="black" font-size="18" latexdraw:x="377.0">
+            <text x="377.0" y="71.0"><![CDATA[Prototype Board]]></text>
+        </g>
+        <g latexdraw:type="akinPoints" id="id109" latexdraw:pathType="1"
+            latexdraw:interval="5" latexdraw:points="214.0 87.0 215.0 87.0 216.0 86.0 217.0 86.0 219.0 86.0 220.0 85.0 221.0 85.0 222.0 85.0 223.0 85.0 224.0 84.0 225.0 84.0 227.0 83.0 228.0 83.0 230.0 82.0 230.0 81.0 232.0 80.0 233.0 80.0 233.0 79.0 234.0 78.0 235.0 78.0 235.0 77.0 236.0 77.0 236.0 76.0 237.0 75.0 238.0 74.0 240.0 73.0 241.0 72.0 242.0 71.0 243.0 70.0 244.0 69.0 244.0 68.0 245.0 68.0 245.0 66.0 246.0 66.0 246.0 65.0 247.0 65.0 248.0 64.0 249.0 64.0 250.0 63.0 251.0 63.0 252.0 63.0 253.0 63.0 254.0 63.0 255.0 63.0 256.0 63.0 257.0 64.0 258.0 64.0 259.0 65.0 260.0 65.0 261.0 66.0 262.0 66.0 263.0 66.0 263.0 67.0 265.0 68.0 266.0 68.0 267.0 69.0 269.0 69.0 270.0 70.0 271.0 70.0 272.0 70.0 274.0 71.0 276.0 72.0 278.0 72.0 281.0 72.0 283.0 73.0 285.0 73.0 288.0 73.0 289.0 73.0 291.0 73.0 294.0 73.0 296.0 72.0 298.0 71.0 301.0 70.0 303.0 69.0 305.0 68.0 307.0 68.0 309.0 67.0 311.0 65.0 313.0 64.0 315.0 63.0 318.0 62.0 320.0 60.0 322.0 59.0 324.0 58.0 327.0 57.0 328.0 57.0 329.0 56.0 330.0 56.0 331.0 56.0 332.0 55.0 334.0 55.0 335.0 55.0 336.0 55.0 337.0 55.0 337.0 56.0 338.0 56.0 339.0 57.0 340.0 58.0 341.0 58.0 342.0 59.0 343.0 60.0 344.0 61.0 345.0 62.0 346.0 62.0 347.0 62.0 348.0 62.0 350.0 63.0 351.0 64.0 352.0 64.0 354.0 65.0 355.0 66.0 356.0 66.0 357.0 66.0 358.0 67.0 360.0 67.0 361.0 67.0 362.0 67.0 363.0 67.0 364.0 66.0 365.0 66.0 366.0 66.0 367.0 66.0 368.0 66.0 ">
+            <path
+                d="M 214.0 87.0 L 217.0 86.0 C 218.5 85.5 221.25 84.75 222.5 84.5 C 223.75 84.25 226.75 83.0 228.5 82.0 C 230.25 81.0 232.75 79.25 233.5 78.5 C 234.25 77.75 236.25 76.0 237.5 75.0 C 238.75 74.0 241.0 71.75 242.0 70.5 C 243.0 69.25 244.75 67.25 245.5 66.5 C 246.25 65.75 248.25 64.5 249.5 64.0 C 250.75 63.5 253.25 63.25 254.5 63.5 C 255.75 63.75 258.25 64.5 259.5 65.0 C 260.75 65.5 263.25 66.75 264.5 67.5 C 265.75 68.25 268.75 69.5 270.5 70.0 C 272.25 70.5 276.75 71.5 279.5 72.0 C 282.25 72.5 287.75 72.75 290.5 72.5 C 293.25 72.25 298.75 71.0 301.5 70.0 C 304.25 69.0 309.75 66.5 312.5 65.0 C 315.25 63.5 320.5 60.75 323.0 59.5 C 325.5 58.25 329.5 56.5 331.0 56.0 C 332.5 55.5 335.0 55.25 336.0 55.5 C 337.0 55.75 339.25 57.0 340.5 58.0 C 341.75 59.0 344.25 60.5 345.5 61.0 C 346.75 61.5 349.75 63.0 351.5 64.0 C 353.25 65.0 356.5 66.25 358.0 66.5 C 359.5 66.75 362.25 66.75 363.5 66.5 C 364.75 66.25 366.5 66.0 368.0 66.0 "
+                stroke-width="2.0" stroke="black" fill="none" latexdraw:rotationAngle="0.0"/>
+        </g>
+        <g latexdraw:type="text" id="id110"
+            font-family="Times New Roman" fill="black" font-size="18" latexdraw:x="265.0">
+            <text x="265.0" y="54.0"><![CDATA[RJ45]]></text>
+        </g>
+        <g latexdraw:type="rectangle" id="id113">
+            <rect x="369.0" y="31.0" width="146.0" height="75.0"
+                latexdraw:borderPos="outer" stroke-width="2.0"
+                stroke="black" fill="none"/>
+        </g>
+        <g latexdraw:type="rectangle" id="id114">
+            <rect x="192.0" y="56.0" width="27.0" height="73.0"
+                latexdraw:borderPos="outer" stroke-width="2.0"
+                stroke="black" fill="none"/>
+        </g>
+        <g latexdraw:type="text" id="id115"
+            font-family="Times New Roman" fill="black" font-size="18"
+            latexdraw:x="185.0" transform="rotate(270.0) translate(-304.10449218750006 111.77636718749997)">
+            <text x="185.0" y="102.0"><![CDATA[Port E]]></text>
+        </g>
+    </g>
+    <metadata>
+        <latexdraw:metadata>
+            <latexdraw:displayBorders>false</latexdraw:displayBorders>
+            <latexdraw:autoAdjust>true</latexdraw:autoAdjust>
+            <latexdraw:ppc>50</latexdraw:ppc>
+            <latexdraw:zoom>2.0</latexdraw:zoom>
+            <latexdraw:unit>cm</latexdraw:unit>
+            <latexdraw:classicGrid>false</latexdraw:classicGrid>
+            <latexdraw:gridGap>10</latexdraw:gridGap>
+            <latexdraw:code>0</latexdraw:code>
+            <latexdraw:displayGrid>true</latexdraw:displayGrid>
+            <latexdraw:magneticGrid>false</latexdraw:magneticGrid>
+            <latexdraw:autoUpdate>true</latexdraw:autoUpdate>
+            <latexdraw:version>2.0.8</latexdraw:version>
+            <latexdraw:size>
+                <latexdraw:width>1916</latexdraw:width>
+                <latexdraw:height>1058</latexdraw:height>
+            </latexdraw:size>
+            <latexdraw:position>
+                <latexdraw:x>0</latexdraw:x>
+                <latexdraw:y>22</latexdraw:y>
+            </latexdraw:position>
+            <latexdraw:dividerPosition>0.8689979123173278</latexdraw:dividerPosition>
+            <latexdraw:displayCodePanel>true</latexdraw:displayCodePanel>
+            <latexdraw:displayXScale>true</latexdraw:displayXScale>
+            <latexdraw:displayYScale>true</latexdraw:displayYScale>
+            <latexdraw:delimitorOpacity>130</latexdraw:delimitorOpacity>
+        </latexdraw:metadata>
+    </metadata>
+</svg>
